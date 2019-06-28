@@ -14,7 +14,7 @@ Clone the repository from [the Github repository](https://github.com/MagpieEmbed
 git clone https://github.com/MagpieEmbedded/planets_tutorial.git
 ```
 
-In a command terminal, navigate to the cloned directory and set up a new virtual environment with a clear name e.g planet_venv:
+In a command terminal, navigate to the cloned directory ([Windows](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands), [Linux](https://www.digitalocean.com/community/tutorials/basic-linux-navigation-and-file-management)) and set up a new virtual environment with a clear name e.g planet_venv:
 ```bash
 python -m venv planet_venv
 ```
